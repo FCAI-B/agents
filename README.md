@@ -6,7 +6,7 @@
 <!-- - Our lectures on Dec 7th in the two courses will be postponed. -->
 
 ```diff
-+ Regarding the summer course, we can have an online meeting next Friday at 7 pm
++ Regarding the summer course, we can have an online meeting next Friday (31 July) at 7 pm
 + https://meet.google.com/qcn-nheh-ehe
 + Please share with all your colleagues.
 
