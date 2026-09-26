@@ -1,11 +1,12 @@
 # Agents
 
 ```diff
-- There is no lecture on Sunday, 27 Sept 2026
 + Please share with all your colleagues.
+- There is no lecture on **Sunday, 27 Sept** 2026
 
 ```
 
+**bold** no
 <!--
 + Regarding the summer course, we can have an online meeting next Friday (31 July) at 7 pm
 + https://meet.google.com/qcn-nheh-ehe
