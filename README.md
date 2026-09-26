@@ -1,7 +1,7 @@
 # Agents
 
 ```diff
-- There is no lecture on Sunday, 20 Sept 2026
+- There is no lecture on Sunday, 27 Sept 2026
 + Please share with all your colleagues.
 
 ```
