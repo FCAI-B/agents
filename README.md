@@ -3,9 +3,7 @@
 
 ## Online Links: Sunday at 7:00 pm
 ```diff
-+ Online Link 1: https://meet.google.com/tic-vqeo-hwj
-+ Online Link 2: https://meet.google.com/xue-pmtn-kvr
-- Our next Lecture will be online next Sunday 25 Oct
++ Next Lecture  will be in the faculty, Insha Allah
 ```
 
 ```diff
@@ -15,6 +13,10 @@
 
 
 <!--
++ Online Link 1: https://meet.google.com/tic-vqeo-hwj
++ Online Link 2: https://meet.google.com/xue-pmtn-kvr
+- Our next Lecture will be online next Sunday 25 Oct
+
 **bold** no
 + Please share with all your colleagues.
 - There is no lecture on **Sunday, 27 Sept** 2026
