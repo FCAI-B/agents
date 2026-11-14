@@ -1,10 +1,11 @@
 # Agents
 
 ```diff
-+ Midterm exam includes lectures 1, 2, 3, 4, and 5.
+- There is no Lecture this week due to midterm exams
 ```
 
 <!--
++ Midterm exam includes lectures 1, 2, 3, 4, and 5.
 ## Online Links: Sunday at 7:00 pm
 - We have a lecture in the faculty tomorrow, 5th Nov (important to attend)
 + Next Lecture  will be in the faculty, Insha Allah (next week)
