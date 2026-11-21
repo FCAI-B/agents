@@ -1,17 +1,19 @@
 # Agents
 
+## Online Links: Sunday at 7:30 pm
++ Online Link 1: https://meet.google.com/tic-vqeo-hwj
++ Online Link 2: https://meet.google.com/xue-pmtn-kvr
+
+
 ```diff
-- There is no Lecture this week due to midterm exams
+- Our next Lecture will be online next Sunday, 22 Nov
 ```
 
 <!--
-+ Midterm exam includes lectures 1, 2, 3, 4, and 5.
-## Online Links: Sunday at 7:00 pm
+- There is no Lecture this week due to midterm exams
 - We have a lecture in the faculty tomorrow, 5th Nov (important to attend)
 + Next Lecture  will be in the faculty, Insha Allah (next week)
-+ Online Link 1: https://meet.google.com/tic-vqeo-hwj
-+ Online Link 2: https://meet.google.com/xue-pmtn-kvr
-- Our next Lecture will be online next Sunday 25 Oct
++ Midterm exam includes lectures 1, 2, 3, 4, and 5.
 
 **bold** no
 + Please share with all your colleagues.
